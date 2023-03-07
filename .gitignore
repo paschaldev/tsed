@@ -81,3 +81,4 @@ tools/**/dist
 /docs-references/api
 /docs-references/tutorials
 /docs-references/package.json
+config.bat
